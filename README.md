@@ -12,7 +12,8 @@
 #### 9.如果新蛇头的位置为食物，则蛇尾无需删除；若不为食物，则需对蛇尾进行pop删除和remove更新链表关系。
 #### 10.游戏结束则显示游戏分数，并进行初始化。
 
-
+###### 贪吃蛇项目demo演示
+[demo](https://muyucat.github.io/Snake-eat-apple/./index.html)
 
 
 
